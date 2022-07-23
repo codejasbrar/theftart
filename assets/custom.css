@@ -1,0 +1,34 @@
+
+.slider .card--standard  .card__content{padding-left:36px; padding-right:36px;text-align:center;}
+.slider .card--standard  .card__content .card-information{text-align:center;}
+.image-with-text .image-with-text__text-item .image-with-text__text{text-align:left}
+.image-with-text .image-with-text__text-item .image-with-text__heading{text-align:left;align-self:baseline}
+.avada-trust-badges-box .avada-bages-wrap{max-width:120px !important;width:120px !important;}
+
+.image-with-text .image-with-text__media-item{max-width:440px;}
+.collection-list__item .card__information{text-align:center;}
+.newsletter .newsletter-form__button{background:#fff !important; color:#000 !important;border:none}
+.newsletter .newsletter__wrapper .newsletter-form__field-wrapper{max-width:33em;}
+.newsletter .newsletter__subheading,.newsletter .newsletter__wrapper h2 {font-style:italic;}
+.newsletter .newsletter-form{max-width:33em;}
+
+.collection .card-information,.collection .card__information{text-align:center;}
+#Huratips-Pagination{display:inline-block; width:100%; text-align:center;}
+#Huratips-Pagination a{text-decoration:none; color:#000;}
+
+.social-sharing a{display:inline-block;color:#000; text-decoration:none; line-height:25px; vertical-align:middle; margin-right:15px;}
+.social-sharing a span{display:inline-block; font-size:12px; line-height:25px; color:#000;vertical-align:top;}
+.social-sharing  svg{max-width:20px; height:20px;}
+.js-filter{padding: 3px 10px;  border: 1px solid #000;}
+.js-filter .facets__summary{margin-bottom:0px;}
+.facet-filters__field .select{padding:3px 10px;  border: 1px solid #000;}
+.facet-filters__sort+.icon-caret{right:5px !important;}
+.facets__heading{margin-top:0px !important; font-weight:bold;}
+.facets__summary:hover span{text-decoration:none !important;}
+.facet-filters__label{ font-weight:bold;}
+.product-form__submit{transition:all 0.5s;}
+.product-form__submit:hover{background:#fff !important; color:#000 !important}
+@media screen and (min-width: 750px){
+  .image-with-text .image-with-text__media-item .image-with-text__text-item .image-with-text__heading{text-align:left}
+.image-with-text .image-with-text__media-item .image-with-text__text-item{text-align:left;align-self:baseline}
+}
